@@ -1,0 +1,10 @@
+{
+	"telemetry.enableTelemetry": false,
+	"telemetry.enableCrashReporter": false,
+	"workbench.colorTheme": "Solarized Light",
+	"window.zoomLevel": 1,
+	"terminal.integrated.inheritEnv": false,
+	"python.linting.pylintArgs": [
+		"--load-plugins=pylint_django"
+	],
+}
