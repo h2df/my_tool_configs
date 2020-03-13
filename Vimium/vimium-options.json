@@ -4,6 +4,10 @@
     {
       "pattern": "https?://mail.google.com/*",
       "passKeys": ""
+    },
+    {
+      "pattern": "https?://www.youtube.com/*",
+      "passKeys": ">,<,c"
     }
   ],
   "filterLinkHints": false,
