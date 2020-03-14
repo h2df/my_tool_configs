@@ -8,6 +8,10 @@
     {
       "pattern": "https?://www.youtube.com/*",
       "passKeys": ">,<,c"
+    },
+    {
+      "pattern": "https?://localhost*",
+      "passKeys": ""
     }
   ],
   "filterLinkHints": false,
